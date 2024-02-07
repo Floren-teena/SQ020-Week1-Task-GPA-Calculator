@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\bin\Debug\net8.0\GPACalculator.exe
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\bin\Debug\net8.0\GPACalculator.deps.json
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\bin\Debug\net8.0\GPACalculator.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\bin\Debug\net8.0\GPACalculator.dll
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\bin\Debug\net8.0\GPACalculator.pdb
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\GPACalculator.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\GPACalculator.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\GPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\GPACalculator.dll
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\refint\GPACalculator.dll
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\GPACalculator.pdb
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\GPACalculator.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\Programs\GPACalculator\obj\Debug\net8.0\ref\GPACalculator.dll
